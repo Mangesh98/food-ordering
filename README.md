@@ -14,15 +14,13 @@ FOOD-ORDERING is a web application developed using php that serves as a online f
 - Search and filter: Users can search for specific dish and apply filters based on categories or tags.
 
 # ANG-BLOG (https://shorturl.at/wxCM3)
-![Frontend](https://github.com/Mangesh98/ang-blog/blob/5c508bfef2ee4892ad0156a7f1ed665b0f1c4505/front-end/src/assets/Screenshot%202023-06-15%20151337.png) 
+![Frontend](https://github.com/Mangesh98/food-ordering/blob/8ff284fc20fe794248c375c25564713eb2bf8741/FOOD-ORDERING/assets/img/front-img/front-end.png) 
 
-![Frontend](https://github.com/Mangesh98/ang-blog/blob/5c508bfef2ee4892ad0156a7f1ed665b0f1c4505/front-end/src/assets/Screenshot%202023-06-15%20151448.png)
 
 # ANG-BLOG-DASHBOARD (https://shorturl.at/IOVZ4)
 ## For Test email : admin & password : admin
-![Backend](https://github.com/Mangesh98/ang-blog/blob/5c508bfef2ee4892ad0156a7f1ed665b0f1c4505/front-end/src/assets/Screenshot%202023-06-15%20151731.png)
+![Backend](https://github.com/Mangesh98/food-ordering/blob/8ff284fc20fe794248c375c25564713eb2bf8741/FOOD-ORDERING/assets/img/front-img/back-end-cms.png)
 
-![Backend](https://github.com/Mangesh98/ang-blog/blob/5c508bfef2ee4892ad0156a7f1ed665b0f1c4505/front-end/src/assets/Screenshot%202023-06-15%20151612.png)
 
 
 ## Installation
@@ -30,7 +28,7 @@ FOOD-ORDERING is a web application developed using php that serves as a online f
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ang-blog.git
+git clone https://github.com/Mangesh98/food-ordering.git
 ```
 
 

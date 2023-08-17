@@ -1,6 +1,6 @@
 # FOOD-ORDERING USING PHP
-## FOOD-ORDERING (https://shorturl.at/erZ16)
-## FOOD-ORDERING-DASHBOARD (https://shorturl.at/uv269)
+## FOOD-ORDERING (https://shorturl.at/mQT02)
+## FOOD-ORDERING-DASHBOARD (https://shorturl.at/VXY49)
 ### For Test email : admin & password : admin
 
 ## Description
@@ -13,11 +13,11 @@ FOOD-ORDERING is a web application developed using php that serves as a online f
 - Delete dishes : Users can remove their dish posts from the platform.
 - Search and filter: Users can search for specific dish and apply filters based on categories or tags.
 
-# FOOD-ORDERING (https://shorturl.at/wxCM3)
+# FOOD-ORDERING (https://shorturl.at/mQT02)
 ![Frontend](https://github.com/Mangesh98/food-ordering/blob/8ff284fc20fe794248c375c25564713eb2bf8741/FOOD-ORDERING/assets/img/front-img/front-end.png) 
 
 
-# FOOD-ORDERING-DASHBOARD (https://shorturl.at/IOVZ4)
+# FOOD-ORDERING-DASHBOARD (https://shorturl.at/VXY49)
 ## For Test email : admin & password : admin
 ![Backend](https://github.com/Mangesh98/food-ordering/blob/8ff284fc20fe794248c375c25564713eb2bf8741/FOOD-ORDERING/assets/img/front-img/back-end-cms.png)
 

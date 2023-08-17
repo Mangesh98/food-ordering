@@ -13,11 +13,11 @@ FOOD-ORDERING is a web application developed using php that serves as a online f
 - Delete dishes : Users can remove their dish posts from the platform.
 - Search and filter: Users can search for specific dish and apply filters based on categories or tags.
 
-# ANG-BLOG (https://shorturl.at/wxCM3)
+# FOOD-ORDERING (https://shorturl.at/wxCM3)
 ![Frontend](https://github.com/Mangesh98/food-ordering/blob/8ff284fc20fe794248c375c25564713eb2bf8741/FOOD-ORDERING/assets/img/front-img/front-end.png) 
 
 
-# ANG-BLOG-DASHBOARD (https://shorturl.at/IOVZ4)
+# FOOD-ORDERING-DASHBOARD (https://shorturl.at/IOVZ4)
 ## For Test email : admin & password : admin
 ![Backend](https://github.com/Mangesh98/food-ordering/blob/8ff284fc20fe794248c375c25564713eb2bf8741/FOOD-ORDERING/assets/img/front-img/back-end-cms.png)
 

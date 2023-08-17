@@ -1,6 +1,6 @@
 # FOOD-ORDERING USING PHP
-## FOOD-ORDERING (https://shorturl.at/wxCM3)
-## FOOD-ORDERING-DASHBOARD (https://shorturl.at/IOVZ4)
+## FOOD-ORDERING (https://shorturl.at/erZ16)
+## FOOD-ORDERING-DASHBOARD (https://shorturl.at/uv269)
 ### For Test email : admin & password : admin
 
 ## Description
@@ -22,16 +22,3 @@ FOOD-ORDERING is a web application developed using php that serves as a online f
 ![Backend](https://github.com/Mangesh98/food-ordering/blob/8ff284fc20fe794248c375c25564713eb2bf8741/FOOD-ORDERING/assets/img/front-img/back-end-cms.png)
 
 
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Mangesh98/food-ordering.git
-```
-
-
-## Resources
-
-- [Angular Documentation](https://angular.io/docs)

@@ -1,6 +1,6 @@
 # FOOD-ORDERING USING PHP
-## FOOD-ORDERING (https://shorturl.at/mQT02)
-## FOOD-ORDERING-DASHBOARD (https://shorturl.at/VXY49)
+## FOOD-ORDERING ()
+## FOOD-ORDERING-DASHBOARD ()
 ### For Test email : admin & password : admin
 
 ## Description
